@@ -1,1 +1,3 @@
-public class App {}
+public class App { 
+	private String name;
+}
