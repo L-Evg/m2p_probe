@@ -1,1 +1,3 @@
-# m2p_probe
+# m2p
+
+A place for playing with Git.
