@@ -1,7 +1,7 @@
 # m2p
 
 A place for playing with Git.
-
+ 
 # Some links
 
 [The book](https://git-scm.com/book/en/v2en)
